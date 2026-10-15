@@ -13,7 +13,7 @@ public class MathUtil {
             result *= i;
         }
 
-        return result;
+        return result + 1;
     }
 }
 // Code chính, Code base, Code dân dev phải làm
